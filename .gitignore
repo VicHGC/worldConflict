@@ -1,0 +1,36 @@
+# Build
+target/
+dist/
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Backend
+backend/target/
+backend.log
+backend-error.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
